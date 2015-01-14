@@ -1,0 +1,10 @@
+C:\Users\Kybosch\Documents\GitHub\Borderlands-Shift-Codes\BorderlandsShiftKeys\bin\Debug\BorderlandsShiftKeys.exe.config
+C:\Users\Kybosch\Documents\GitHub\Borderlands-Shift-Codes\BorderlandsShiftKeys\bin\Debug\BorderlandsShiftKeys.exe
+C:\Users\Kybosch\Documents\GitHub\Borderlands-Shift-Codes\BorderlandsShiftKeys\bin\Debug\BorderlandsShiftKeys.pdb
+C:\Users\Kybosch\Documents\GitHub\Borderlands-Shift-Codes\BorderlandsShiftKeys\bin\Debug\EntityFramework.dll
+C:\Users\Kybosch\Documents\GitHub\Borderlands-Shift-Codes\BorderlandsShiftKeys\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Kybosch\Documents\GitHub\Borderlands-Shift-Codes\BorderlandsShiftKeys\bin\Debug\EntityFramework.xml
+C:\Users\Kybosch\Documents\GitHub\Borderlands-Shift-Codes\BorderlandsShiftKeys\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Kybosch\Documents\GitHub\Borderlands-Shift-Codes\BorderlandsShiftKeys\obj\Debug\BorderlandsShiftKeys.csprojResolveAssemblyReference.cache
+C:\Users\Kybosch\Documents\GitHub\Borderlands-Shift-Codes\BorderlandsShiftKeys\obj\Debug\BorderlandsShiftKeys.exe
+C:\Users\Kybosch\Documents\GitHub\Borderlands-Shift-Codes\BorderlandsShiftKeys\obj\Debug\BorderlandsShiftKeys.pdb

@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="ShiftKeysModelStoreContainer" CdmEntityContainer="ShiftKeysEntities">
+    <EntitySetMapping Name="tblShiftKeys">
+      <EntityTypeMapping TypeName="ShiftKeysModel.tblShiftKey">
+        <MappingFragment StoreEntitySet="tblShiftKeys">
+          <ScalarProperty Name="DateAdded" ColumnName="DateAdded" />
+          <ScalarProperty Name="ShiftKey" ColumnName="ShiftKey" />
+          <ScalarProperty Name="Id" ColumnName="Id" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>
