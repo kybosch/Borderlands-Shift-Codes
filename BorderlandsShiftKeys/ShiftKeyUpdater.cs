@@ -100,7 +100,7 @@ namespace BorderlandsShiftKeys
                         sb.AppendLine("Now go out there, get some legendary gear and blow shit up. ITS YOUR DUTY.<br/><br/>");
                         sb.AppendLine("Fairy Fucking Godmother");
 
-                        MailMessage mail = new MailMessage("kyle@blahcms.com", "kybosch@gmail.com");
+                        MailMessage mail = new MailMessage("email", "email");
                         mail.Subject = "Shift keys";
                         mail.IsBodyHtml = true;
                         mail.Body = sb.ToString();
